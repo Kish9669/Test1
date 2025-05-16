@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 code change
+=======
+Edited from Github Repo.
+>>>>>>> 1a172215c47bcb1f2e48d685fd90643f0007d651
